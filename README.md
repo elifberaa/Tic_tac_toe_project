@@ -1,6 +1,6 @@
 # XOX (Tic Tac Toe) Oyunu - Flutter Okul Projesi
 
-Bu proje, Flutter kullanılarak geliştirilmiş bir XOX (Tic Tac Toe) oyunudur. Okul projesi gereksinimlerini karşılamak üzere tasarlanmıştır. Uygulama, bir giriş ekranı, iki oyunculu oyun mantığı, sonuç ekranı ve API'dan logo çeken bir drawer menü içerir.
+Bu proje, Flutter kullanılarak geliştirilmiş bir XOX (Tic Tac Toe) oyunudur. Uygulama, bir giriş ekranı, iki oyunculu oyun mantığı, sonuç ekranı ve API'dan logo çeken bir drawer menü içerir.
 
 ## Proje Amacı
 

@@ -51,7 +51,6 @@ Gerçek bir uygulamada login bilgilerini güvenli bir şekilde saklamak için a�
 -   **`flutter_secure_storage`:** Daha hassas verileri (şifreler, API anahtarları) iOS Keychain ve Android Keystore kullanarak güvenli bir şekilde saklamak için.
 -   **Backend Entegrasyonu:** Kullanıcı bilgilerini bir veritabanında saklayan ve kimlik doğrulamayı yöneten bir backend servisi (Firebase Authentication, kendi API'nız vb.) kullanmak.
 
-Bu proje basitlik amacıyla bu yöntemleri içermemektedir.
 
 ## Grup Üyelerinin Projeye Katkısı
 

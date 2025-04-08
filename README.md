@@ -55,13 +55,10 @@ Bu proje basitlik amacıyla bu yöntemleri içermemektedir.
 
 ## Grup Üyelerinin Projeye Katkısı
 
-*Bu bölümü kendi grup bilgilerinize göre doldurunuz.*
 
--   **[Üye Adı Soyadı]:** [Katkıları - Örn: Login ekranı tasarımı, Oyun mantığı geliştirme]
--   **[Üye Adı Soyadı]:** [Katkıları - Örn: Sonuç ekranı, Drawer menü entegrasyonu, README]
--   ...
 
-*(Eğer proje bireysel ise bu bölümü kaldırabilir veya kendinizi yazabilirsiniz.)*
+-   **[Elif Beraa Çığrıkçı]:** [Her şey]
+
 
 ## Özgünlük ve Karmaşıklık
 
@@ -74,9 +71,6 @@ Bu proje, standart bir Tic-Tac-Toe oyununun Flutter ile temel özelliklerini iç
 -   **Gelişmiş Animasyonlar:** Oyun geçişleri, kazanan çizgi animasyonu gibi görsel iyileştirmeler.
 -   **Tema Seçenekleri:** Kullanıcının farklı renk temaları seçebilmesi.
 
-## Diğer Anlatmak İstedikleriniz
-
-*Bu bölüme proje hakkında eklemek istediğiniz diğer notları, karşılaştığınız zorlukları veya öğrendiklerinizi ekleyebilirsiniz.*
 
 ## Kullanılan Paketler
 
